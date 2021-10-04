@@ -1,3 +1,6 @@
 # car_type_prediction
 
-This is the test case in which a short DS/DA work was done.
+
+Test case, where models for car type prediction were made.
+
+
